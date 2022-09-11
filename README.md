@@ -10,7 +10,7 @@ I have experience with C++, C#, Java & DBMS and am also familiar with C. At pres
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafwanSbr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)  
+![GitHub streak stats](https://github-readme-stats.vercel.app/api?username=SafwanSbr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SafwanSbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.facebook.com/Safwansbr//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Safwansbr/)  
 
