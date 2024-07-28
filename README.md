@@ -1,16 +1,33 @@
-## Hola!
+## Hola! 
+### I am Safwan Bin Rahman
+A Programmer, a Developer, an undergraduate student at AIUB in CSE.
 
-I have experience with C++, C#, Java & DBMS, and am also familiar with C. At present, I'm learning about Data Structures, algorithms & Web Development. I like solving programming-related problems and am interested in Competitive Programming. I did some personal projects using Java, C# & C++.
+## Let's get in Touch
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.facebook.com/Safwansbr/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/Safwansbr/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.facebook.com/Safwansbr/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='30'>](https://codeforces.com/profile/NIGHT_FURY_sbr)
 
+## Languages 
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![AssamblyLanguage](https://img.shields.io/badge/-EMU8086-000000?style=flat&logo=aframe)
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## Tools
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![Oracle DB](https://img.shields.io/badge/-OracleDB-000000?style=flat&logo=oracle)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![Microsoft_SQL_Server](https://img.shields.io/badge/-MSSQL-000000?style=flat) <br />
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 
-
+## Github Overview
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SafwanSbr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafwanSbr)](https://github.com/anuraghazra/github-readme-stats)  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SafwanSbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.facebook.com/Safwansbr//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Safwansbr/)  
-
-![Profile views](https://gpvc.arturio.dev/SafwanSbr) 
