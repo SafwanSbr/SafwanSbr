@@ -28,6 +28,8 @@ A Programmer, a Developer, an undergraduate student at AIUB in CSE.
 ![Microsoft_SQL_Server](https://img.shields.io/badge/-MSSQL-000000?style=flat) <br />
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 
-## Github Overview
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SafwanSbr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafwanSbr)](https://github.com/anuraghazra/github-readme-stats)  
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafwanSbr&layout=compact&theme=radical)
+
+## GitHub Stats
+![SafwanSbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=SafwanSbr&show_icons=true&theme=radical)
