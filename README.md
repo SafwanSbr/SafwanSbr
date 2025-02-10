@@ -1,6 +1,7 @@
 ## Hola! 
 ### I am Safwan Bin Rahman
-A Programmer, a Developer, an undergraduate student at AIUB in CSE.
+An Engineer, a Programmer, a Developer, an undergraduate student at AIUB in CSE.
+
 
 ## Let's get in Touch
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.facebook.com/Safwansbr/) 
