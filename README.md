@@ -1,6 +1,6 @@
 ## Hola! 
 ### I am Safwan Bin Rahman
-An Engineer, a Programmer, a Developer, an undergraduate student at AIUB in CSE.
+An Engineer, a Programmer, a Developer, and an undergraduate student at AIUB in CSE.
 
 
 ## Let's get in Touch
@@ -38,7 +38,11 @@ An Engineer, a Programmer, a Developer, an undergraduate student at AIUB in CSE.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker - Containerization Platform" width="40" height="40" />
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SafwanSbr&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats-pi-pied-85.vercel.app/api/top-langs/?username=SafwanSbr&layout=compact&theme=dark" alt="Top Languages">
+</p>
 
 ## GitHub Stats
-![SafwanSbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=SafwanSbr&show_icons=true&theme=radical)
+ <p align="left">
+  <img src="https://github-readme-stats-pi-pied-85.vercel.app/api?username=SafwanSbr&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+</p>
